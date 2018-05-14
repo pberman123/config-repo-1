@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is so bright, ya gotta wear shades.
+  fallbackFortune: Your future is so bright, ya gotta wear sunglasses.
 
